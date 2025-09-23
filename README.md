@@ -28,6 +28,8 @@
 
 ## 🛠️ My Tech Stack
 
+## 🛠️ My Tech Stack
+
 ### 🔵 Generative AI & ML
 ![LangChain](https://img.shields.io/badge/LangChain-22b3c1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTE5LjUgMjI0LjRsLTYwLjMgNjEuMy0zNC4xLTE5LjcgNTUuMy01Ni4xem0tMzYuMy00MS40bDMyLjYgMzMuMi04My4yIDUuMy00LjMtNDV6bTEwNC4xIDM5LjVsNjAuMyA2MS4zIDM0LjEtMTkuNy01NS4zLTU2LjF6bTM2LjItNDEuNGwtMzIuNiAzMy4yIDgzLjIgNS4zIDQuMy00NXptLTY3LjItOTguMWwtOC42IDQuNiA1LjggNC40YzE3LjkgMTMuNiAyOC40IDM0LjMgMjguNCA1Ni41djEuOWwtLjYtLjEtMTMuNi0xMy44LTQyLjQtNDMuMi0xMi42LTEyLjgtMzYtMzYuNi0zNi4yLTM2LjgtMTUuMy0xNS42LTE3LjktMzguNC02LjEtNTYuOWw1LjYtOC44IDQuNCA2em0tNDIuMS0xOS4zYy0xMS43IDE5LjEtOS44IDQzLjcgNS41IDU5LjRsNDcgNDcuOSAxMy42IDEzLjggMTQtMTQuMiA0MS42LTQyLjMgMTIuNi0xMi44YzE1LjMtMTUuNiAxNy45LTM4LjQgNi4xLTU2LjlsLTUuNi04LjgtNC40IDZMMTMzLjggNDUgMTMyIDQzbC01LjcgMy4yLTguNSA0LjgtOC42IDQuNi0yLjUgMS40LTYuMSA0LjctNC4xLTIuMy0xMS43LTYuNy0xMS41IDExLjcgMTYuMSAxNi40IDQuOCA0LjgtMjMuMyAyMy43LTQ2LjItNDcuMS0uMS0uMXoiLz48L3N2Zz4=)
 ![Vector Databases](https://img.shields.io/badge/Vector_DB-1ba3b8?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -44,6 +46,14 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-148a96?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0f7a85?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-22b3c1?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🔵 Cybersecurity & Networking
+![Scapy](https://img.shields.io/badge/Scapy-22b3c1?style=for-the-badge&logo=python&logoColor=white)
+![PCAP Analysis](https://img.shields.io/badge/PCAP_Analysis-1ba3b8?style=for-the-badge&logo=wireshark&logoColor=white)
+![NIDS](https://img.shields.io/badge/NIDS-148a96?style=for-the-badge&logo=security&logoColor=white)
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-0f7a85?style=for-the-badge&logo=python&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-22b3c1?style=for-the-badge&logo=regex&logoColor=white)
+![Network Forensics](https://img.shields.io/badge/Network_Forensics-1ba3b8?style=for-the-badge&logo=security&logoColor=white)
 
 ### 🔵 Core Programming
 ![Python](https://img.shields.io/badge/Python-22b3c1?style=for-the-badge&logo=python&logoColor=white)
