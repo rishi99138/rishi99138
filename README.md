@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm **Rishi Mandal**, a final year B.Tech student specializing in Computer Science & Engineering .
 - 🚀 I have a passion for building intelligent, scalable software with a strong focus on **Generative AI**, **Cloud-Native Applications**, and **Cybersecurity** .
-- 🏛️ Studying at **Siksha 'O' Anusandhan University** in Bhubaneswar (CGPA: 7.7) .
+- 🏛️ Studying at **Siksha 'O' Anusandhan University** in Bhubaneswar.
 - ☁️ Experienced in architecting and deploying practical solutions on **AWS**, from serverless applications to complex **Retrieval-Augmented Generation (RAG)** systems .
 - 📍 Based in **Bhubaneswar, Odisha, India** .
 - 💬 Let's connect to discuss: **Generative AI**, **RAG Pipelines**, **AWS Serverless**, **Cloud Security**, or **Python Development**.
